@@ -19,13 +19,10 @@
 #1. clone this project
 ~ git clone
 
-#2. Open the App.jsx file in your browser
-~ open App.Jsx
+#2. Open index.html file in your browser
+~ open Index.html
 
-#3. Select the path to open the project folder
-~ open App.Jsx
-
-#4. Open Live Server in the localhost
+#3. Open Live Server in the localhost
 ~ http://127.0.0.1:5500/index.html
 
 #4. Enjoy!
